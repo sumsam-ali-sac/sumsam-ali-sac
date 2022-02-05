@@ -22,7 +22,7 @@
                                     |                              A creative mind working as a computer programmer                           |
                                     |                           Expertise in c, c++, java, python, and problem-solving.                       | 
                                     |       I have a zealous interest towards ompetitive programming and big data analysis and analytics      |
-                                    |                           with the use of Machiene Learning and Artificial Intelligence                 |
+                                    |                         with the use of Machiene Learning and Artificial Intelligence                   |
                                     |          Aspiring an interesting and Successful career in Data science, MERN stack And Block chain.     |          
                                     |             A valuable team member who has experience diagnosing problems and developing solutions      |                                                                       |                                                                                                         |
                                     |                                                                                                         |
