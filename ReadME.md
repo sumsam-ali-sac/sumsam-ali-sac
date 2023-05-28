@@ -1,20 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sumsam Ali
 ==================================================================================================================================
 
-ML and AI engineer
+ML / AI engineer
 ------------------
 
-I am Sumsam Ali, a dreamer driven by curiosity and fueled by passion. From a small town, I embarked on a remarkable journey into the realms of Machine Learning and Artificial Intelligence.
+I am Sumsam Ali, a dreamer driven by curiosity 🧐 and fueled by passion ❤️. From a small town 🏘️, I embarked on a remarkable journey into the realms of Machine Learning and Artificial Intelligence 🤖.
 
-At FAST NUCES, Karachi, I immersed myself in the wonders of programming and data analysis. With every challenge, I grew stronger, determined to push the boundaries of what seemed possible.
+At FAST NUCES, Karachi, I immersed myself in the wonders of programming 💻 and data analysis 📊. With every challenge, I grew stronger 💪, determined to push the boundaries of what seemed possible 🚀.
 
-Certifications from esteemed institutions like DeepLearning.AI became milestones, validating the countless hours I poured into mastering this field. But it wasn't just about accolades. It was about the growth, the mentors who guided me, and the peers who inspired me.
+Certifications from esteemed institutions like DeepLearning.AI became milestones 🏅, validating the countless hours ⏳ I poured into mastering this field. But it wasn’t just about accolades. It was about the growth 🌱, the mentors who guided me 👩‍🏫, and the peers who inspired me 👥.
 
-Projects became my canvas, where I brought ideas to life. From designing a deep learning application to automatically grade student essays to implementing cutting-edge CNN models for optical character recognition, each project became a testament to my technical prowess.
+Projects became my canvas 🎨, where I brought ideas to life 💡. From designing a deep learning application to automatically grade student essays 📝 to implementing cutting-edge CNN models for optical character recognition 🔠, each project became a testament to my technical prowess 🔥.
 
-As a Project-based Programming Intern at Lyzoo Technologies and a Level 2 Freelancer on Fiverr, I witnessed the power of data-driven decision-making and helped clients navigate the complexities of data analysis and machine learning.
+As a Project-based Programming Intern at Lyzoo Technologies and a Level 2 Freelancer on Fiverr, I witnessed the power of data-driven decision-making 💯 and helped clients navigate the complexities of data analysis and machine learning 🙌.
 
-My journey is a reflection of the power of passion and resilience. With each step, I am driven by the desire to make a positive impact on the world. I am Sumsam Ali, and this is my story—a story of dreams, dedication, and the unwavering pursuit of knowledge in the realm of ML and AI.
+My journey is a reflection of the power of passion and resilience 😎. With each step, I am driven by the desire to make a positive impact on the world 🌎. I am Sumsam Ali, and this is my story—a story of dreams 😴, dedication ✊, and the unwavering pursuit of knowledge 📚 in the realm of ML and AI.
 
 * 🌍  I'm based in Karachi ,Pakistan
 * 🖥️  See my portfolio at [my personal website](http://sumsam.site)
