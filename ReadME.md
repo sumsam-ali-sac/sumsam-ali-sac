@@ -69,7 +69,7 @@ src="https://img.shields.io/twitter/follow/CGSumsamAli?logo=twitter&style=for-th
 
 <a href="http://www.github.com/sumsam-ali-sac"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumsam-ali-sac&stroke=ffffff&background=0D1117&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sumsam-ali-sac"><img src="https://github-profile-trophy.vercel.app/?username=sumsam-ali-sac&column=7&margin-w=10&margin-h=10&no-frame=true" /></a>
+<a href="http://www.github.com/sumsam-ali-sac"><img src="https://github-profile-trophy.vercel.app/?username=sumsam-ali-sac&column=7&margin-w=10&margin-h=10&no-frame=true&stroke=ffffff&background=0D1117&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/sumsam-ali-sac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumsam-ali-sac&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
