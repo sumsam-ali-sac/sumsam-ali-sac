@@ -3,7 +3,7 @@
    <img align="center" alt="GIF" src="https://github.com/sumsam-ali-sac/sumsam-ali-sac/assets/93638623/cf427956-a109-4cf4-b583-c842f131429b" width="560" height="420" />
 </p>
 
-<center>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave" width="30px"> My name is Sumsam Ali</center>
+<p align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave" width="30px"> My name is Sumsam Ali</p>
 ==================================================================================================================================
 
 ML / AI engineer
