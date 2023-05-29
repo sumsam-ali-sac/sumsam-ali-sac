@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave" width="50px"> My name is Sumsam Ali</h1>
-------------------
+
 
 ML / AI engineer
 ------------------
