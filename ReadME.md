@@ -2,7 +2,7 @@
 <p align="center">
    <img align="center" alt="GIF" src="https://github.com/sumsam-ali-sac/sumsam-ali-sac/assets/93638623/cf427956-a109-4cf4-b583-c842f131429b" width="560" height="420" />
 </p>
-
+------------------
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave" width="50px"> My name is Sumsam Ali</h1>
 
 <h1 align="center">ML / AI engineer</h1>
