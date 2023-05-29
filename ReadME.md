@@ -8,7 +8,7 @@
 <h1 align="center">ML / AI engineer</h1>
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&duration=3999&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=AI%2C+ML+and+data+science+enthusiast;Always+learning+new+embarkings;Coding+geek;Sphinx+of+DS+%2C+ML+%2C+AI" alt="Typing SVG" /></a></h1>
 
-------------------
+
 
 I am Sumsam Ali, a dreamer driven by curiosity 🧐 and fueled by passion ❤️. From a small town 🏘️, I embarked on a remarkable journey into the realms of Machine Learning and Artificial Intelligence 🤖.
 
