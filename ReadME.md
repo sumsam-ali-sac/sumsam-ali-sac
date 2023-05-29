@@ -2,11 +2,11 @@
 <p align="center">
    <img align="center" alt="GIF" src="https://github.com/sumsam-ali-sac/sumsam-ali-sac/assets/93638623/cf427956-a109-4cf4-b583-c842f131429b" width="560" height="420" />
 </p>
-------------------
+
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave" width="50px"> My name is Sumsam Ali</h1>
 
 <h1 align="center">ML / AI engineer</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&duration=3999&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=AI%2C+ML+and+data+science+enthusiast;Always+learning+new+embarkings;Coding+geek;Sphinx+of+DS+%2C+ML+%2C+AI" alt="Typing SVG" /></a>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&duration=3999&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=AI%2C+ML+and+data+science+enthusiast;Always+learning+new+embarkings;Coding+geek;Sphinx+of+DS+%2C+ML+%2C+AI" alt="Typing SVG" /></a></h1>
 
 ------------------
 
