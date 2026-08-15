@@ -18,7 +18,7 @@ I hold Microsoft's Azure AI Engineer, Fabric Data Engineer, and Fabric Analytics
 
 * 🌍 Based in Karachi, Pakistan
 * 💼 Development Manager, Data @ Imperium Dynamics — enterprise RAG platforms on Microsoft Fabric / OneLake
-* 🖥️ Portfolio: [sumsam.site](http://sumsam.site)
+* 🖥️ Portfolio: [sumsamali.com](https://www.sumsamali.com)
 * ✉️ Reach me at [sumsamali.cs@gmail.com](mailto:sumsamali.cs@gmail.com)
 * 🚀 Currently building: agent-based pipelines and hybrid-search RAG systems
 * 🧠 Currently learning: multi-agent orchestration & agentic evaluation
